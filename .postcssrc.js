@@ -4,5 +4,5 @@
 // import {autoprefixer} from "autoprefixer"
 // export
 module.exports = {
-  Plugin: [require("autoprefixer")],
+  plugins: [require("autoprefixer")],
 };

@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "parcel index.html",
+    "dev": "parcel index.html --no-cache",
     "build": "parcel build index.html"
   },
   "keywords": [],
@@ -25,6 +25,6 @@
   },
   "browserslist": [
     "> 1%",
-    "last 2 version"
+    "last 2 versions"
   ]
 }
